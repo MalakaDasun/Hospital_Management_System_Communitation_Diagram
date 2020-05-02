@@ -1,0 +1,2 @@
+# Hospital_Management_System_Communitation_Diagram
+It shows hospital management system's communication system
